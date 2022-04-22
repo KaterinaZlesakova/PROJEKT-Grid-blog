@@ -174,3 +174,7 @@ figcaption {
 footer {
 	color: #b2bec3;
 }
+
+.tip {
+	align-self: flex-start;
+}
